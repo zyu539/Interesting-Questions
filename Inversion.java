@@ -3,7 +3,7 @@
 
 
 //answer: As shown in <<Introduction to Algorithms>>, the number of inversions should be the same as steps taken to bring
-//number back to the place it should be in ordered array using insertion sort. SO if the absolute diff between the number
+//number back to the place it should be in ordered array using insertion sort. So if the absolute diff between the number
 //and the place it should be is larger than 1, we can confirm that global is larger than the local one.
 class Solution {
     public boolean isIdealPermutation(int[] A) {
