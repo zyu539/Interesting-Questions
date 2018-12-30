@@ -74,6 +74,8 @@ slash lines as barriers ('sea'). There are 2 different solutions using union-fin
 
 Link: https://leetcode.com/problems/regions-cut-by-slashes/discuss/205680/JavaC%2B%2BPython-Split-4-parts-and-Union-Find
       https://leetcode.com/problems/regions-cut-by-slashes/discuss/205674/C%2B%2B-with-picture-DFS-on-upscaled-grid
+      
+Besides, there is also a solution using Euler Formula which is interesting: https://leetcode.com/problems/regions-cut-by-slashes/discuss/205738/Using-Euler's-Formula-(V-E-%2B-F-2)
 */
 class RegionsBySlashes {
     public int regionsBySlashes(String[] grid) {
